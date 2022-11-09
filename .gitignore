@@ -15,3 +15,8 @@
 go.work
 
 **/Go/Go
+
+# Rust target subdirectories
+**/*/target
+
+**/*/*.txt
